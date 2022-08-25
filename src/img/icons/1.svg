@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 5000 2235.875" enable-background="new 0 0 5000 2235.875" xml:space="preserve">
+<symbol  id="Alpha" viewBox="-28.694 -25 57.387 50">
+	<g>
+		<path d="M28.694,23.919c-2.162-3.78-3.739-7.913-4.73-12.398c-0.991-4.486-1.486-8.528-1.486-12.128
+			c0-2.611,0.457-6.165,1.374-10.666c0.916-4.5,2.304-8.716,4.167-12.646H11.261c-0.781,1.568-1.486,3.362-2.117,5.383
+			C6.171-22.846,1.396-25-5.18-25c-7.207,0-12.928,2.635-17.162,7.906c-4.234,5.27-6.352,11.253-6.352,17.95
+			c0,7.056,2.185,12.845,6.554,17.365C-17.77,22.74-12.057,25-5,25c5.795,0,10.66-2.073,14.595-6.218
+			c0.33,1.578,0.975,3.29,1.937,5.137L28.694,23.919L28.694,23.919z M-2.793-13.063c2.402,0,4.174,1.028,5.315,3.085
+			C3.663-7.921,4.234-4.625,4.234-0.09c0,8.799-2.403,13.198-7.207,13.198c-2.463,0-4.279-1.074-5.45-3.221
+			C-9.594,7.74-10.18,4.415-10.18-0.09C-10.18-8.739-7.718-13.063-2.793-13.063z"/>
+	</g>
+</symbol>
+<symbol  id="Omega" viewBox="-27.841 -25 55.683 50">
+	<g>
+		<path d="M2.586-12.588c1.958,0.291,3.428,2.075,4.323,3.857C8.5-5.566,8.921-1.439,8.921,2.109c0,3.793-0.808,6.558-2.424,8.296
+			c-1.615,1.738-3.824,2.607-6.626,2.607c-6.515,0-8.793-4.993-8.793-11.507c0-4.494,0.942-7.913,2.119-10.171
+			c0.86-1.652,2.407-3.619,4.217-3.922V-25h-25.256v12.067h8.189v0.172c-5.18,3.26-7.327,10.401-7.327,16.507
+			c0,8.411,4.925,16.102,15.429,19.588c6.896,2.288,16.511,2.145,23.079,0.022c10.504-3.399,15.451-10.875,15.451-19.61
+			c0-6.68-1.989-12.625-7.327-16.507v-0.172h8.189V-25H2.586V-12.588z"/>
+	</g>
+</symbol>
+<g>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(0.6364 1.875 1.875 -0.6364 3839.0637 55.1201)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.5684 1.2086 1.2086 -1.5684 2171.8286 971.0483)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.8312 0.7532 0.7532 1.8312 1495.3154 1796.2328)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.98 -0.0162 -0.0162 1.98 1128.9976 1879.6053)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.2309 -1.551 -1.551 -1.2309 4696.3486 1774.3956)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.2296 1.9667 1.9667 0.2296 4694.4404 1480.3253)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.9738 -0.1576 -0.1576 -1.9738 3987.4163 2160.4287)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.2425 -1.5417 -1.5417 1.2425 626.0817 1726.8077)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.4414 1.3576 1.3576 -1.4414 3068.501 1848.213)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.915 0.5033 0.5033 1.915 872.0031 93.8447)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.006 1.7054 1.7054 1.006 241.9583 852.3746)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.8174 1.8035 1.8035 0.8174 1459.3047 1952.3649)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.9128 0.5117 0.5117 1.9128 1330.1675 1849.2589)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.2367 -1.9659 -1.9659 0.2367 488.4589 250.9528)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.9746 0.1468 0.1468 1.9746 4790.2749 1159.4965)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.8273 -0.7626 -0.7626 1.8273 218.3526 1008.515)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.2337 -1.9662 -1.9662 0.2337 4734.2485 795.4459)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.3876 -1.9418 -1.9418 0.3876 362.7743 1240.3694)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.9376 -0.4078 -0.4078 -1.9376 3087.8457 1682.5693)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.5569 1.2234 1.2234 -1.5569 418.8584 1937.3334)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.8332 -0.7484 -0.7484 -1.8332 4301.2827 2065.3838)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.4336 -1.932 -1.932 0.4336 2779.3806 643.4299)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(0.0444 -1.9796 -1.9796 -0.0444 362.9772 1059.3641)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.0792 1.6601 1.6601 1.0792 3433.9426 317.1935)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.5439 -1.2397 -1.2397 1.5439 2168.3701 597.8476)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.5261 -1.9089 -1.9089 0.5261 2179.845 806.8631)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(0.8791 1.7742 1.7742 -0.8791 4832.4531 608.4393)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(0.0931 -1.9779 -1.9779 -0.0931 4627.7939 1109.5039)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.2084 -1.5686 -1.5686 -1.2084 644.8738 1913.3925)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(0.1872 1.9712 1.9712 -0.1872 4950.3306 1112.0985)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.8358 -1.795 -1.795 0.8358 3637.7639 1878.6792)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.9276 -0.4529 -0.4529 -1.9276 3575.7964 407.8752)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.6064 -1.8849 -1.8849 0.6064 418.9461 1419.6193)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.4956 1.2976 1.2976 1.4956 2372.4971 814.1835)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.6368 -1.8749 -1.8749 0.6368 3668.1162 92.4213)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(0.7894 -1.8159 -1.8159 -0.7894 4858.2559 1479.2458)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(0.4238 1.9342 1.9342 -0.4238 4928.874 929.5888)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.5801 1.1933 1.1933 -1.5801 2032.5583 844.3898)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.4052 -1.395 -1.395 -1.4052 2235.3262 1583.5236)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.3766 1.4232 1.4232 -1.3766 2096.9143 1706.8293)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.3526 -1.9484 -1.9484 0.3526 946.8122 374.247)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.1571 -1.6068 -1.6068 1.1571 507.4059 1592.847)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.9736 -0.16 -0.16 1.9736 2219.1013 1425.6772)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.9366 -0.4124 -0.4124 1.9366 2946.386 1561.2255)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.2261 -1.9671 -1.9671 0.2261 4033.7705 231.1709)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.7385 -0.9477 -0.9477 -1.7385 1678.3091 2019.3617)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.7279 -0.9669 -0.9669 -1.7279 324.6372 1544.0302)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.4806 1.9208 1.9208 0.4806 3091.2937 699.4805)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.1852 1.5862 1.5862 -1.1852 2263.7141 1123.6216)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.5292 -1.2578 -1.2578 1.5292 541.0615 2036.4752)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.472 1.923 1.923 0.472 4613.4565 1293.4214)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.0186 1.6979 1.6979 -1.0186 4358.5088 1865.7737)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.6288 -1.126 -1.126 -1.6288 2512.3162 1260.1415)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.2576 -1.5294 -1.5294 -1.2576 2699.5735 1183.4386)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.9121 0.5141 0.5141 -1.9121 861.9371 2158.8926)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.6275 -1.878 -1.878 0.6275 3070.3784 376.8933)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.4078 1.9376 1.9376 0.4078 2798.9258 826.4316)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(0.5872 1.891 1.891 -0.5872 1105.2378 347.3299)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(0.0902 -1.978 -1.978 -0.0902 3516.2156 2085.6375)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.8545 0.6937 0.6937 -1.8545 2166.3245 1259.1769)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.6756 1.0549 1.0549 -1.6756 2338.3486 1284.7478)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(0.8436 -1.7914 -1.7914 -0.8436 1533.3988 452.3911)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.3949 -1.9403 -1.9403 0.3949 2408.3367 1130.8982)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.2058 1.5705 1.5705 -1.2058 1393.1295 2118.9641)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.0029 -1.7073 -1.7073 -1.0029 3142.9282 515.0467)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.1178 -1.6344 -1.6344 1.1178 295.4226 706.5616)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.8498 0.7063 0.7063 -1.8498 698.355 2101.3535)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.7408 -0.9434 -0.9434 1.7408 816.4853 245.4695)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.9508 -0.3393 -0.3393 -1.9508 3247.8845 1803.4446)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.5413 1.243 1.243 1.5413 2650.7908 770.5735)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.2884 1.5035 1.5035 1.2884 338.7462 398.0815)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.3683 1.4312 1.4312 -1.3683 382.8076 1696.5712)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(0.6016 1.8865 1.8865 -0.6016 1544.2731 2075.8689)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.9793 1.7209 1.7209 0.9793 956.657 2029.907)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.0914 1.6521 1.6521 -1.0914 2284.124 697.5578)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.4805 1.9209 1.9209 0.4805 120.177 732.1862)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.8803 0.6206 0.6206 1.8803 3708.0525 2021.0996)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.9799 -0.026 -0.026 1.9799 1196.2668 71.4407)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.5515 -1.2302 -1.2302 -1.5515 1962.348 1809.4125)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.948 -0.355 -0.355 -1.948 3749.6062 358.9621)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.3594 -1.4397 -1.4397 -1.3594 2959.5698 845.3193)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(0.547 -1.903 -1.903 -0.547 1401.7902 400.8493)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.9648 1.7291 1.7291 0.9648 214.0273 556.8645)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.805 -0.8139 -0.8139 1.805 557.0721 597.7232)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.4831 -1.3119 -1.3119 -1.4831 4634.252 333.0104)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(0.4897 -1.9185 -1.9185 -0.4897 245.0652 1368.2423)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.8262 -0.7653 -0.7653 -1.8262 144.2887 1543.459)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.1429 -1.6169 -1.6169 -1.1429 800.2755 1980.8702)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.7216 -1.8439 -1.8439 0.7216 2944.1299 507.5941)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.5955 1.1727 1.1727 -1.5955 4329.3945 491.4727)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.4695 -1.3271 -1.3271 -1.4695 2968.7878 1395.2354)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.2773 1.9605 1.9605 0.2773 1801.2151 1769.9716)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(0.85 -1.7883 -1.7883 -0.85 1270.0358 1992.0891)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.7358 0.9527 0.9527 -1.7358 4788.8271 1635.9409)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.9772 -0.1061 -0.1061 1.9772 1115.1533 2033.4441)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-0.4995 -1.916 -1.916 0.4995 1924.6793 1497.4279)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.9595 0.2846 0.2846 -1.9595 1254.704 358.5052)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.4376 -1.3616 -1.3616 -1.4376 4499.2197 235.3386)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(-1.5862 1.1851 1.1851 1.5862 1794.5327 1614.5424)" overflow="visible"/>
+	
+		<use xlink:href="#Omega"  width="55.683" height="50" x="-27.841" y="-25" transform="matrix(1.7774 0.8726 0.8726 -1.7774 4511.1787 442.6528)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-0.5344 -1.9066 -1.9066 0.5344 3822.5168 2160.092)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.6668 -1.0688 -1.0688 -1.6668 4394.0913 1664.9983)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-0.2044 -1.9695 -1.9695 0.2044 1902.3666 532.0859)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.9458 0.3665 0.3665 -1.9458 3631.2493 247.2923)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-0.3042 -1.9566 -1.9566 0.3042 4203.6001 234.5297)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-0.9405 -1.7424 -1.7424 0.9405 4609.4478 932.6211)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.0993 -1.6468 -1.6468 1.0993 2669.4099 1495.1621)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.4216 1.3783 1.3783 1.4216 2931.9053 1725.4215)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.9782 0.0854 0.0854 -1.9782 4648.3545 612.3334)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.7867 0.8534 0.8534 -1.7867 458.1375 731.4531)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.8408 0.7294 0.7294 1.8408 3812.2014 1852.7313)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.4348 1.3645 1.3645 1.4348 3253.928 605.0857)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-0.9689 1.7268 1.7268 0.9689 2661.387 953.0058)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.9764 0.1209 0.1209 1.9764 999.1721 218.9031)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.8741 -1.7767 -1.7767 -0.8741 1046.8236 2179.7827)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.6165 1.8816 1.8816 -0.6165 392.1327 563.328)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.9763 0.1215 0.1215 1.9763 58.2788 1090.1268)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.9607 -0.2764 -0.2764 1.9607 1897.2612 356.5404)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.7026 1.8512 1.8512 -0.7026 4469.1831 612.9714)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.1388 -1.9752 -1.9752 -0.1388 940.6118 1867.6168)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.9791 -0.062 -0.062 1.9791 2553.5105 1076.5643)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.8956 -0.5723 -0.5723 1.8956 1726.5793 229.3082)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.8176 -0.7855 -0.7855 1.8176 655.9843 309.684)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.7026 -1.0108 -1.0108 -1.7026 1213.6487 211.6258)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.1915 1.5815 1.5815 -1.1915 1810.8257 1916.4082)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-0.9214 1.7526 1.7526 0.9214 4212.3105 1788.7604)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.0389 1.6856 1.6856 1.0389 686.0289 138.135)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.8676 0.6577 0.6577 -1.8676 3356.7285 2058.4082)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.9495 -0.3463 -0.3463 -1.9495 1638.9678 1883.3184)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.1643 1.6016 1.6016 1.1643 3522.5649 1801.4186)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.0383 -1.9797 -1.9797 -0.0383 4777.6543 980.6035)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.0988 -1.9776 -1.9776 -0.0988 4767.0044 1324.1307)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.9756 -0.1323 -0.1323 1.9756 4156.2402 2138.3755)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.7059 -1.0053 -1.0053 -1.7059 2385.2058 1438.9324)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.6602 -1.8667 -1.8667 -0.6602 510.665 423.8708)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.9664 0.2319 0.2319 1.9664 65.786 1259.4274)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-0.9772 1.7221 1.7221 0.9772 499.3149 1815.7334)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.6052 -1.1592 -1.1592 1.6052 3844.4119 215.692)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.6248 1.1316 1.1316 1.6248 2049.8008 1383.9794)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.9485 -0.3518 -0.3518 1.9485 2791.8003 1409.5708)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.9156 0.5009 0.5009 1.9156 4350.0874 146.7723)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.905 0.5399 0.5399 1.905 91.0272 1401.1198)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.7343 -0.9555 -0.9555 1.7343 2039.2581 659.5312)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.2951 1.9579 1.9579 -0.2951 4895.6113 765.9308)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.9644 0.2488 0.2488 1.9644 3955.0352 366.5381)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.8559 0.6901 0.6901 1.8559 4558.3936 763.2546)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.7185 -0.9835 -0.9835 1.7185 1654.9187 520.3978)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.3175 1.4781 1.4781 -1.3175 1901.035 719.2702)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.8998 -0.5581 -0.5581 1.8998 1541.1201 141.4406)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.9777 -0.0975 -0.0975 1.9777 4017.6702 1856.1835)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.3246 -1.4717 -1.4717 -1.3246 1584.0669 306.6347)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.1399 -1.619 -1.619 1.1399 3319.4106 216.5438)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.7307 -0.9619 -0.9619 -1.7307 1227.0798 2168.0759)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.3567 -1.4422 -1.4422 -1.3567 2598.0054 1370.2394)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.89 -0.5905 -0.5905 -1.89 801.152 415.9391)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.9798 -0.0314 -0.0314 -1.9798 3665.8108 2165.8557)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.8474 -0.7125 -0.7125 1.8474 4048.4639 2015.9177)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.8064 -1.8084 -1.8084 -0.8064 396.4885 885.0817)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.6021 -1.8863 -1.8863 -0.6021 2806.2869 1005.0458)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.0281 -1.6923 -1.6923 -1.0281 3396.0764 1742.847)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.6976 -1.0193 -1.0193 1.6976 2852.2317 1268.6901)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.5972 -1.1702 -1.1702 1.5972 218.6617 1176.5554)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.8135 0.7949 0.7949 -1.8135 4576.7881 1644.4286)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.6658 1.0705 1.0705 -1.6658 297.34 1837.4005)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.1853 1.5861 1.5861 1.1853 4730.9395 461.0231)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.3839 -1.4161 -1.4161 1.3839 4597.9658 1906.0455)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.7208 0.9795 0.9795 1.7208 1643.3281 1711.2428)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.5591 -1.8995 -1.8995 -0.5591 2087.4199 1545.7694)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.3442 1.4538 1.4538 1.3442 3489.874 143.1453)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.3111 1.4837 1.4837 1.3111 3218.7627 1955.5868)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.012 1.98 1.98 -0.012 1037.1542 74.3004)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.3052 -1.9564 -1.9564 -0.3052 669.365 488.4899)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.8879 0.597 0.597 -1.8879 4153.0708 391.3585)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.4479 1.3506 1.3506 -1.4479 3106.2983 1518.9918)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-0.6212 1.8801 1.8801 0.6212 1360.6798 94.5625)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.4418 -1.3571 -1.3571 1.4418 1769.8174 609.2404)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.6206 1.1377 1.1377 -1.6206 1940.4387 1658.2925)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-0.7168 -1.8457 -1.8457 0.7168 2347.1211 973.7037)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.2599 -1.9629 -1.9629 -0.2599 2932.7883 677.6028)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.8376 -0.7376 -0.7376 -1.8376 4527.1128 1484.5168)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.9751 -0.1401 -0.1401 1.9751 67.3502 917.2543)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.4718 -1.3246 -1.3246 1.4718 2508.8865 893.5897)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.6422 -1.873 -1.873 -0.6422 4195.5635 1951.4835)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.7908 -0.8448 -0.8448 1.7908 3223.0271 334.8071)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-0.5861 1.8913 1.8913 0.5861 1745.474 401.5539)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.576 1.1987 1.1987 -1.576 2044.1539 474.5282)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.9256 1.7504 1.7504 -0.9256 4456.4751 1992.017)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.5021 -1.2901 -1.2901 1.5021 2793.7803 1605.7999)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.2293 1.9667 1.9667 -0.2293 4001.6326 58.9012)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-1.6223 -1.1352 -1.1352 1.6223 3886.6836 2000.537)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(-0.6613 -1.8664 -1.8664 0.6613 201.7136 1693.0066)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.7756 0.8764 0.8764 -1.7756 4160.9414 83.3655)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.7354 -1.8384 -1.8384 -0.7354 777.0594 1808.5895)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(0.4239 -1.9341 -1.9341 -0.4239 3382.8464 480.6535)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.7438 0.9379 0.9379 -1.7438 4504.4966 1791.359)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.0257 1.6937 1.6937 -1.0257 3430.9692 1923.4047)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.4518 -1.3465 -1.3465 -1.4518 4348.0825 330.3064)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.8842 0.6087 0.6087 -1.8842 1412.7062 254.2627)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.9073 0.5318 0.5318 -1.9073 4929.3228 1302.861)" overflow="visible"/>
+	
+		<use xlink:href="#Alpha"  width="57.387" height="50" x="-28.694" y="-25" transform="matrix(1.6951 1.0234 1.0234 -1.6951 3247.5793 1637.3367)" overflow="visible"/>
+</g>
+</svg>
