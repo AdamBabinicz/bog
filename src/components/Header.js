@@ -208,7 +208,7 @@ const HeaderStyled = styled.header`
         display: flex;
         flex-direction: column;
         justify-content: center;
-        background: red;
+        background: #000;
         position: absolute;
         top: 0;
         left: 0;
@@ -220,13 +220,14 @@ const HeaderStyled = styled.header`
         margin: 0 0.7rem;
 
         @media only screen and (max-width: 676px) {
-          margin-bottom: 2rem;
+          margin-bottom: 3.5rem;
         }
         a {
           text-transform: uppercase;
           font-size: 1rem;
           padding: 0.8rem;
           position: relative;
+
           &::before {
             content: "";
             position: absolute;
