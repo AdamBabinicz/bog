@@ -37,7 +37,11 @@ function FooterSection() {
             >
               <i class="fab fa-facebook"></i>
             </a>
-            <a href="">
+            <a
+              href="//www.instagram.com/grzegorzkramer"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <i class="fab fa-instagram"></i>
             </a>
             <a
