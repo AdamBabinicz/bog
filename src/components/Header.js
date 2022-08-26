@@ -220,7 +220,7 @@ const HeaderStyled = styled.header`
         margin: 0 0.7rem;
 
         @media only screen and (max-width: 676px) {
-          margin-bottom: 3rem;
+          margin-bottom: 2.7rem;
         }
         a {
           text-transform: uppercase;
