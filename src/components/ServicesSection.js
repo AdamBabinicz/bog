@@ -27,41 +27,51 @@ function ServicesSection() {
             "sformułowana przez Platona, głosząca że dobro samo w sobie istnieje i jest ono bytem niematerialnym, nadprzyrodzonym, doskonałym, miłującym."
           }
           icon={animation}
+          link={"https://www.kul.pl/files/108/Co_wiemy_o_istocie_dobra.pdf"}
         />
         <ServiceCard
           title="Dowód kosmologiczny"
           desc="według którego musiała istnieć pierwsza przyczyna, którą był Bóg; sformułowany przez Arystotelesa i powtórzony przez Tomasza z Akwinu."
           icon={artificialIntelligence}
+          link={"https://pl.wikipedia.org/wiki/Argument_kosmologiczny"}
         />
         <ServiceCard
           title="Dowód ontologiczny"
           desc="Bóg musi istnieć, gdyż jest najdoskonalszą rzeczą, o jakiej można pomyśleć, a rzeczy doskonałej istnienie przysługuje z konieczności, więc Bóg istnieje z konieczności; stworzył Anzelm z Canterbury, powtórzył Kartezjusz."
           icon={gameDevelopment}
+          link={"https://pl.wikipedia.org/wiki/Dow%C3%B3d_ontologiczny"}
         />
         <ServiceCard
           title="Dowód teleologiczny"
           desc="klasyczny argument z projektu mówi, że Wszechświat jest tak skomplikowany, że musiał być zaplanowany przez Boga, współcześnie argument ten przybiera bardziej wyrafinowaną formę a jego zwolennicy uważają, że racjonalność przyrody, która daje się opisać przy pomocy narzędzi matematycznych i która decyduje o tym, że wszechświat nie jest chaosem, ale uporządkowaną, harmonijną całością sugeruje istnienie zamysłu Boga."
           icon={emergencySoftware}
+          link={"https://pl.wikipedia.org/wiki/Argument_teleologiczny"}
         />
         <ServiceCard
           title="Argument biologiczny"
           desc="musi istnieć istota będąca podstawowym źródłem życia, twórcą życia ludzkiego, twórcą wszelkiego życia, posiadająca niewyczerpane i wieczne życie. Źródłem tym jest Bóg."
           icon={globalTeaching}
+          link={
+            "https://pl.wikipedia.org/wiki/Argument_biologiczny_na_istnienie_Boga"
+          }
         />
         <ServiceCard
           title="Argument moralny"
           desc="moralna natura istot ludzkich sugeruje istnienie twórcy moralności; Bóg jest potrzebny jako ten, który wdraża moralność, skoro więc ona jest prawdziwa i słuszna, to istnieje Bóg."
           icon={videoProduction}
+          link={"https://pl.wikipedia.org/wiki/Argument_moralny"}
         />
         <ServiceCard
           title="Argument z cudu"
           desc="istnienie cudów wskazuje na istnienie Boga."
           icon={videoProduction}
+          link={"https://pl.wikipedia.org/wiki/Argument_z_cudu"}
         />
         <ServiceCard
           title="Argument kumulatywny"
           desc="jeśli zebrać wszystkie przemawiające na rzecz teizmu fakty — istnienie wszechświata, jego ład, istnienie świadomości, ludzkie możliwości czynienia dobra, wzorzec dziejów, świadectwo cudów oraz doświadczenie religijne — to jest bardziej prawdopodobne, że teizm ma rację, niż, że jej nie ma."
           icon={videoProduction}
+          link={"https://pl.wikipedia.org/wiki/Dowodzenie_istnienia_Boga"}
         />
       </div>
     </ServicesSectionStyled>

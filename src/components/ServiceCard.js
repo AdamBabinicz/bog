@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { useTheme } from "../context/themeContext";
 
-function ServiceCard({ title, desc, icon }) {
+function ServiceCard({ title, desc, icon, link }) {
   const theme = useTheme();
   return (
     <ServicesCardStyled theme={theme}>
@@ -10,8 +10,13 @@ function ServiceCard({ title, desc, icon }) {
         <img src={icon} alt="..." />
         <h4>{title}</h4>
         <p>{desc}</p>
-        <a href="#" className="learn-more">
-          <span>Czytaj więcej</span>
+        <a
+          href={link}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="learn-more"
+        >
+          Czytaj więcej
           <span className="arrow">
             <i className="fas fa-chevron-right"></i>
           </span>
